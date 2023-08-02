@@ -14,3 +14,7 @@ Script generates assembly code of C files (saved in variable $CFILE).
 
 3-name
 Compiles C files and creates an executable named cisfun.
+
+4-puts.c
+Prints out a string using the puts function.
+puts function prints out strings and automatically adds a new line at the end.
