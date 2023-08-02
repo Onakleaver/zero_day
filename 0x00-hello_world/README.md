@@ -8,3 +8,6 @@ This script writes a script that runs a C file (saved in variable $CFILE) throug
 
 1-compiler
 Scripts compiles C files (saved in variable $CFILE) but does not link them. it saves output in a file named the same as the C file but with a .o extention
+
+2-assembler
+Script generates assembly code of C files (saved in variable $CFILE)
