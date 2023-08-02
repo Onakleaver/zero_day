@@ -18,3 +18,7 @@ Compiles C files and creates an executable named cisfun.
 4-puts.c
 Prints out a string using the puts function.
 puts function prints out strings and automatically adds a new line at the end.
+
+5-print.c
+Prints a string using printf function.
+printf function prints characters without adding a new line at the end and thus you need to add ~\n~ at the end to add a new line.
