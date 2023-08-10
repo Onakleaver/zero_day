@@ -22,3 +22,9 @@ Prints out a string using the `puts` function.
 ## 5-print.c
 Prints a string using `printf` function.
 `printf` function prints characters without adding a new line at the end and thus you need to add `\n` at the end to add a new line.
+
+## 6-size.c
+Program prints the size of verious types 
+
+## 100-intel
+Generates the assembly code of C code.
