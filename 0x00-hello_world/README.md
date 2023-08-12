@@ -1,4 +1,4 @@
-#This directory contains exercises on basics of C language.
+# This directory contains exercises on basics of C language.
 
 ## klivo
 This script pushes all the changes made to the origin to the git hub repo.
