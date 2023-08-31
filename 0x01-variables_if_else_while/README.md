@@ -10,4 +10,7 @@ The programe assigns a random number to variable `n` each time it's executed and
 Checks if the last digit of a randomly generated number `> 5`, `< 6` or `0`.
 
 ## 2-print_alphabet.c
-Prints alphabet in lower case followed by a new line
+Prints alphabet in lower case followed by a new line.
+
+## 3-print_alphabets.c
+Prints alphabet in lower case then in upper case followed by a new line.
