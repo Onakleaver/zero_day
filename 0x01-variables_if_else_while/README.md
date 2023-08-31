@@ -8,3 +8,6 @@ The programe assigns a random number to variable `n` each time it's executed and
 
 ## 1-last_digit.c
 Checks if the last digit of a randomly generated number `> 5`, `< 6` or `0`.
+
+## 2-print_alphabet.c
+Prints alphabet in lower case followed by a new line
