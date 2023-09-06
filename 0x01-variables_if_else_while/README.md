@@ -17,3 +17,6 @@ Prints alphabet in lower case then in upper case followed by a new line.
 
 ## 4-print_alphabt.c
 Uses `for`loop and `if` statment to print out the alphabet in lower case leaving out letters e and q.
+
+## 5-print_numbers.c
+Prints out all single digit base 10 numbers
