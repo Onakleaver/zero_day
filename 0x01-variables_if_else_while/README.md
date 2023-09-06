@@ -20,3 +20,6 @@ Uses `while` and `if` statment to print out the alphabet in lower case leaving o
 
 ## 5-print_numbers.c
 Prints out all single digit base 10 numbers
+
+6-print_numberz.c
+Prints out all single digit numbers from 0 using only `putchar`
