@@ -29,3 +29,6 @@ Prints lowercase alphabet in reverse followed by a new line
 
 ## 8-print_base16.c
 Prints all single digits of base 16 in lowercase
+
+## 9-print_comb.c
+Prints all possible combination of single digit numbers followed by a space and comma
