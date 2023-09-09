@@ -6,14 +6,23 @@
 */
 int main(void)
 {
-	int num;
-	
-	num = 0;
-	while (num <= 9)
+	int dig1;
+
+	dig1 = 48;
+	while (dig1 <= 57)
 	{
-		putchar('0' + num);
-		num++;
+		int dig2 = 48;
+
+		while (dig2 <= 57)
+		{
+			putchar(dig1);
+			putchar(dig2);
+			putchar(',');
+			putchar(' ');
+			dig2++;
+		}
+		dig1++;
+		putchar('\n');
 	}
-	putchar('\n');
 	return (0);
 }

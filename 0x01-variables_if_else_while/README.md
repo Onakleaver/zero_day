@@ -32,3 +32,6 @@ Prints all single digits of base 16 in lowercase
 
 ## 9-print_comb.c
 Prints all possible combination of single digit numbers followed by a space and comma
+
+## 100-print_comb3.c
+Print all possible combinations of two digit numbers using a `while` loop
