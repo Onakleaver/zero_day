@@ -8,3 +8,6 @@ Creates a function that prints characters like the function `putchar`
 
 ## 0-putchar.c
 Program prints characters.
+
+## 1-alphabet.c
+Prints alphabet in lowercase
