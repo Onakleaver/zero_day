@@ -20,3 +20,6 @@ Programe prints lowercase alphabet 10 times
 
 ## 3-islower.c
 Checks if given characters are lowercase or not using `islower` function from the `ctype.h` library
+
+## 4-isalpha.c
+Checks if input character is alphabetic using the `isalpha` function
