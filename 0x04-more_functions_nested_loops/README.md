@@ -5,3 +5,6 @@ Checks if the character input is uppercase and returns `1` else `0` by creating 
 
 ## 1-isdigit.c
 Checks if the input character is a digit between 0 and 9
+
+## 2-mul.c
+Multiplies two integers
